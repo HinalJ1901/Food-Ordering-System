@@ -6,7 +6,7 @@
   "author": "Hinal Kanani",
   "scripts": {
     "start": "node server.js",
-    "dev": "nodemon server.js",
+    "dev": "nodemon server.js"
   },
   "license": "MIT",
   "dependencies": {
